@@ -28,7 +28,7 @@ banner(){
 		duckyscan [OPTIONS]
 
 	OPTIONS:
-	  -x --> Install (or upgrade) the missing packages 
+	  -x --> Install (or upgrade) the required packages 
 	  -h --> Display this info
 	  -a --> Scan ports with scripts
 	  -p --> Scan the chosen port/s
