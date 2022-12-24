@@ -3,11 +3,11 @@ Duckyscan is an advanced port analysis tool. It contains a set of tools, like nm
 ## Installation ##
 Download the file and give it execute permission.
 ```
-chmod u+x duckyscan
+$ chmod u+x duckyscan
 ```
 Then execute it
 ```
-./duckyscan
+$ ./duckyscan
 ```
 ## Usage ##
 ```
