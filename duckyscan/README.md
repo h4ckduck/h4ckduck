@@ -1,5 +1,14 @@
 # Duckyscan Beta 1.2.3 #
 Duckyscan is an advanced port analysis tool. It contains a set of tools, like nmap, whatweb... that are launched once the corresponding port is found open on the TARGET
+## Installation ##
+Download the file and give it execute permission.
+```
+chmod u+x duckyscan
+```
+Then execute it
+```
+./duckyscan
+```
 ## Usage ##
 ```
 	DUCKYSCAN beta 1.2.3 ( h4ckduck )
