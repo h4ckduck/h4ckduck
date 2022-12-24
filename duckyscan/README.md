@@ -30,3 +30,4 @@ $ ./duckyscan
 ``` 
 ## Bugs ##
 Duckyscan is still in Beta. Feel free to report bugs in Github (Issues).
+Please assign them to @focab0r
