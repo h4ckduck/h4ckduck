@@ -28,6 +28,14 @@ $ ./duckyscan
 	  duckyscan -x
 	  duckyscan -p 22,80,445 192.168.0.0
 ``` 
+## Tools ##
+* Nmap
+* WhatWeb
+* SMBclient
+* NetCat
+* FTP
+* Nslookup
+* Dig
 ## Bugs ##
 Duckyscan is still in Beta. Feel free to report bugs in Github (Issues).
 Please assign them to @focab0r
