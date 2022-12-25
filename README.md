@@ -1,4 +1,4 @@
-### H4ckDuck ###
+# H4ckDuck #
 Repositorio del grupo H4ckDuck 🦆
 ## About us ##
 We are still writing this...
