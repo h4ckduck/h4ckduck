@@ -6,11 +6,15 @@ When you execute Duckyscan, it launches Nmap which scans the ports of the TARGET
 
 The goal of Duckyscan it is to automate tasks that have always been very repetitive during pentesting. 
 ## Installation ##
-Download the file and give it execute permission.
+Download the file:
+```
+curl https://raw.githubusercontent.com/h4ckduck/h4ckduck/main/duckyscan/duckyscan > duckyscan
+```
+Give it execute permission:
 ```
 $ chmod u+x duckyscan
 ```
-Then execute it
+Then execute it:
 ```
 $ ./duckyscan
 ```
