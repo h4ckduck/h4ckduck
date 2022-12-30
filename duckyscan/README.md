@@ -35,6 +35,7 @@ $ ./duckyscan
 ``` 
 ## Tools ##
 * Nmap
+* Searchsploit
 * WhatWeb
 * SMBclient
 * NetCat
